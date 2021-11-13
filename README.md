@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying on [XJTU](http://www.xjtu.edu.cn/)
+- 🔭 Master at [XJTU](http://www.xjtu.edu.cn/)
 - 🌱 [MyBlog](https://congregalis.github.io/)
 - ⚡ Java
  
