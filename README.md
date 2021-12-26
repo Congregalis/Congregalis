@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Congregalis/Congregalis/main/assets/github-contribution-grid-snake.svg)
 
-### Click [Here](https://congregalis.github.io/about/#%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D) to find **more about me**
+### Click [Here](https://congregalis.github.io/intro/) to find **more about me**
