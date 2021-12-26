@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Congregalis
 
 <!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/congregalis) -->
 
@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Master at [XJTU](http://www.xjtu.edu.cn/)
-- 🌱 [MyBlog](https://congregalis.github.io/)
-- ⚡ Java
+- 👨‍🎓 Master at [XJTU](http://www.xjtu.edu.cn/)
+- ☕ Work mainly on **Java**
+- 🌱 Write something occasionally on [MyBlog](https://congregalis.github.io/)
+- 🐱‍🏍 [More](https://congregalis.github.io/intro/) about me 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congregalis&layout=compact&hide=html,css,stylus)
 
 ![Congregalis's github stats](https://github-readme-stats.vercel.app/api?username=congregalis&count_private=true&show_icons=true&hide=prs)
 
 ![](https://raw.githubusercontent.com/Congregalis/Congregalis/main/assets/github-contribution-grid-snake.svg)
-
-### Click [Here](https://congregalis.github.io/intro/) to find **more about me**
