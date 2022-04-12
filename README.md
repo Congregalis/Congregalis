@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Write something occasionally on [MyBlog](https://congregalis.github.io/)
 - 🐱‍🏍 [More](https://congregalis.github.io/intro/) about me 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congregalis&layout=compact&hide=html,css,stylus)
-
-![Congregalis's github stats](https://github-readme-stats.vercel.app/api?username=congregalis&count_private=true&show_icons=true&hide=prs)
+ <img  src="https://github-readme-stats.vercel.app/api?username=congregalis&show_icons=true&hide_title=true&hide_border=true&card_width=300" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=congregalis&layout=compact&hide=html,css,scss,jupyter%20notebook&hide_title=true&hide_border=true" width="48%" >
 
 ![](https://raw.githubusercontent.com/Congregalis/Congregalis/main/assets/github-contribution-grid-snake.svg)
